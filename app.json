@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️Prince"
+      "value": "918536881026;✪⏤͟͞★⃝ꪶ‎𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈𖥘✪͜͡➺"
       },
      "MODE": {
       "description": "mode public or private",
@@ -44,12 +44,12 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "✪⏤͟͞★⃝ꪶ‎𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈𖥘✪͜͡➺"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Prince🎗️❣️"
+      "value": "✪⏤͟͞★⃝ꪶ‎𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈𖥘✪͜͡➺"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -59,12 +59,12 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *ᴘʀɪɴᴄᴇ-ᴍᴅ* --------📥"
+      "value": "📥-------- *ALEX-PIKU* --------📥"
       },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
       "required": false,
-      "value": "false"
+      "value": "true"
       },
     "Status_Saver": {
       "description": "Make it true if you want the bot to auto save your contacts status",
